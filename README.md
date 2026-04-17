@@ -1,3 +1,3 @@
-https://github.com/Dumskii-Artem/zakrivayuschiy-teg-f.git
+https://github.com/Dumskii-Artem/zakrivayuschiy-teg-final-ad
 
-https://dumskii-artem.github.io/zakrivayuschiy-teg-f/
+https://dumskii-artem.github.io/zakrivayuschiy-teg-final-ad
